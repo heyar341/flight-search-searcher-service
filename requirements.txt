@@ -1,0 +1,10 @@
+amadeus==5.2.0
+dnspython==2.2.0
+fastapi==0.72.0
+pika==1.2.0
+pycodestyle==2.8.0
+pydantic==1.9.0
+pymongo[srv,tls]==4.0.1
+python-jose[cryptography]==3.3.0
+uvicorn[standard]==0.17.0
+requests==2.27.1
